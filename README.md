@@ -1,6 +1,6 @@
 # Hi, Tractian 🧢
 
-This repository contains a Flutter test project that demonstrates the integration of various libraries and concepts commonly used in Flutter app development. The project showcases the usage of GetX for state management, Synfusion Charts for data visualization, Drift for local data persistence, and Dio for making HTTP requests.
+This repository serves as a comprehensive test project created for the Tractian company. The project's main objective is to demonstrate my proficiency in Flutter development by integrating various libraries and technologies commonly used in the industry.
 
 ## Project Overview
 
